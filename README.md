@@ -10,8 +10,8 @@ Star Social is a social media platform built using the Django framework 💻. It
 
 
 ## 💻 Requirements
-- Python 3.x
-- Django 3.x
+- Python 3.9
+- Django 4.1
 - Pip
 - Virtualenv (optional)
 
