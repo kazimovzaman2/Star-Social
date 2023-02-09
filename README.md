@@ -42,6 +42,11 @@ $ python manage.py runserver
 # 🤝 Contributing
 If you are interested in contributing to this project, please fork the repository and create a pull request with your changes 💪.
 
+## Demo
+#### [Go to demo web site](https://star-social-zaman.glitch.me/)
+
+
+
 ## 📜 License
 This project is licensed under the MIT License. 🎉
 
